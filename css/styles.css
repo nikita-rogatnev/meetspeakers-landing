@@ -184,6 +184,10 @@ body {
     border-radius: 50%;
 }
 
+.speakers__item:last-child {
+    margin-bottom: 0;
+}
+
 .speakers__item img {
     position: absolute;
     width: auto;
@@ -258,7 +262,6 @@ body {
     .form iframe {
         height: 980px;
     }
-
 }
 
 @media (min-width: 1200px) {
