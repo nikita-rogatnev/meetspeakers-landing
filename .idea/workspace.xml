@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7c828838-2bad-45bb-a0e2-17a106f69bee" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/hero.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/hero.jpg" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -29,8 +29,8 @@
       <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="383">
-              <caret line="125" column="18" selection-start-line="125" selection-start-column="18" selection-end-line="125" selection-end-column="18" />
+            <state relative-caret-position="428">
+              <caret line="160" column="39" selection-start-line="160" selection-start-column="39" selection-end-line="160" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -127,12 +127,12 @@
       <option name="presentableId" value="Default" />
       <updated>1535468393520</updated>
       <workItem from="1535468395307" duration="3151000" />
-      <workItem from="1535637014872" duration="2657000" />
+      <workItem from="1535637014872" duration="3613000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5808000" />
+    <option name="totallyTimeSpent" value="6764000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1439" height="877" extended-state="0" />
@@ -191,8 +191,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="125" column="18" selection-start-line="125" selection-start-column="18" selection-end-line="125" selection-end-column="18" />
+        <state relative-caret-position="428">
+          <caret line="160" column="39" selection-start-line="160" selection-start-column="39" selection-end-line="160" selection-end-column="39" />
         </state>
       </provider>
     </entry>
