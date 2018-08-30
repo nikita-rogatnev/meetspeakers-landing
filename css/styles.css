@@ -121,6 +121,11 @@ body {
     margin-bottom: 20px;
 }
 
+.form {
+    font-size: 0;
+    line-height: 0;
+}
+
 .speakers {
     min-width: 1200px;
     background: #A1D8F6;
